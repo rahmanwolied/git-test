@@ -4,7 +4,9 @@ const members = [
   "Mehedi",
   "Hasibul",
   "Md Abdullah",
-  "Aminul"
+  "Aminul",
+  "Sabbir",
+  "Atikur Rahaman",
 ];
 
 function renderMembers() {
