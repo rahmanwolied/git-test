@@ -6,14 +6,15 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: #f0f0f0;
+  background: #fff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  
 }
 
 .navbar {
-  background: #333;
+  background: #2c3e50;
   color: #fff;
   padding: 12px 24px;
   display: flex;
